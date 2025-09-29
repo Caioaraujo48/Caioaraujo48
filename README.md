@@ -1,7 +1,7 @@
 ## Hello! I'm Caio
 ### BackEnd Dev <br>
 
-  I'm speak Portuguese(Brazil); <br>
+  I'm brazilian; <br>
   I'm development my skills in area of tecnology. <br>
   
 
